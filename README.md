@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![](https://github-readme-stats.vercel.app/api?username=realwds&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=realwds&theme=onedark)
