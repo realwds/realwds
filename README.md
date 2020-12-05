@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=realwds&show_icons=true&theme=vue-dark)
 -->
 
-![](display.jpg)
+![](https://cdn.jsdelivr.net/gh/realwds/realwds/display.jpg)
