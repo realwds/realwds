@@ -17,10 +17,4 @@ Here are some ideas to get you started:
 ![](https://github-readme-stats.vercel.app/api?username=realwds&show_icons=true&theme=vue-dark)
 -->
 
-- [realwds.github.io](https://realwds.github.io/)
-- [vuepress-blog](https://realwds.github.io/vuepress-blog/)
-- [hexo-blog](https://realwds.github.io/)
-
 ![](https://cdn.jsdelivr.net/gh/realwds/realwds/display.jpg)
-
-
