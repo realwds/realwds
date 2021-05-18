@@ -1,8 +1,8 @@
 
 ## 👋 Hey Guys I'm Alejandro.
 
-- ⚡ realwds's website: [realwds.github.io](https://realwds.github.io)
-- ⚡ realwds's blog: [realwds-blog.vercel.app](https://realwds-blog.vercel.app)
+- ⚡ realwds's website: [realwds.com](https://realwds.com)
+- ⚡ realwds's blog: [blog.realwds.com](https://blog.realwds.com)
 - 🌱 Delicate facial features are the beginning of the heart, charming temperament is the abyss of emotion. 
 - 📈 Visitor: <img src="https://profile-counter.glitch.me/realwds/count.svg" width="140"/>
 
