@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Alejandro.
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=realwds&show_icons=true&hide_border=true&icon_color=586069&title_color=a0a9af">
-
 - ⚡ My blog: [blog.realwds.com](https://blog.realwds.com)
 - 🌱 Delicate facial features are the beginning of the heart, 
 - 🌱 Charming temperament is the abyss of emotion. 
