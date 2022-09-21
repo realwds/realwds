@@ -1,7 +1,5 @@
 ## 👋 Hi, I'm Alejandro.
 
-<img align="right" alt="GIF" src="https://github.com/devSouvik/devSouvik/blob/master/gif4.gif?raw=true" width="360"/>
-
 - ⚡ My blog: [blog.realwds.com](https://blog.realwds.com)
 - 🌱 Delicate facial features are the beginning of the heart, 
 - 🌱 Charming temperament is the abyss of emotion. 
